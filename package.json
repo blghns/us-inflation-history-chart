@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://blghns.github.io/us-inflation-history-chart",
+  "homepage": "https://blghns.github.io/us-inflation-history-cgithart",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
